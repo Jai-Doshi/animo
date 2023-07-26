@@ -1,5 +1,7 @@
 # Animo
 
+![FOTO-COMPUTER-SCIENCE-II-STOCK-1024x683](https://github.com/Jai-Doshi/animo/assets/62877713/64a9a5b0-c727-4cf1-859e-5128bf28b2af)
+
 •	I made a Django Web App to help people with similar interests connect and communicate with each other.
 
 •	The web app is a place where people can come together and connect with others who have similar interests and passions.
